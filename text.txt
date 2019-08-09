@@ -2,3 +2,4 @@
 Login = "sai"
 Password = "pass"
 LogFileName = "log.dat"
+ForCommit1 = "New text for commit one"
