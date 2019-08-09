@@ -1,0 +1,4 @@
+//Тесттовая строка
+Login = "sai"
+Password = "pass"
+LogFileName = "log.dat"
