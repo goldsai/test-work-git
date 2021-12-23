@@ -1,4 +1,4 @@
-//Тесттовая строка
+//HZ
 Login = "sai"
 Password = "pass"
 LogFileName = "log.dat"
